@@ -117,7 +117,7 @@ function draw() {
     }
   }
   
-  
+  text("hello",100,100);
   drawSprites();
 }
 
